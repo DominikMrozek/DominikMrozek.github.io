@@ -1,6 +1,9 @@
 # Welcome to Domink Mrozek's Homepage!
 
 ### Hello!
+
+![This is an image](brook.png)
+
 My hobbies:
 - programming,
 - computer games,
