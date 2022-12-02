@@ -1,4 +1,4 @@
-## Welcome!
+# Welcome to Domink Mrozek's Homepage!
 
 ### Hello!
 My hobbies:
